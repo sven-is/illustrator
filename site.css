@@ -4,5 +4,5 @@ h2 { margin: 0; }
 h2,h3{letter-spacing:-1px}
 p,li,h2,i{ font-weight: 300; }
 a { color: #00f; }
-a[disabled] { pointer-events: none; color: #888 }
+a[disabled] { pointer-events: none; color: #888; text-decoration: none; }
 a[disabled]:after { content:' - coming soon'; font-style: italic; font-weight: 300; color: #bbb; }
