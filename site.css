@@ -7,3 +7,4 @@ a { color: #00f; }
 a[disabled] { pointer-events: none; color: #888; text-decoration: none; }
 a[disabled]:after { content:' - coming soon'; font-style: italic; font-weight: 300; color: #bbb; }
 tt { font-family: Menlo, monospace; font-size: 15px; color: #333; }
+i.soon { color: #888; }
